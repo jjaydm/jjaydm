@@ -5,7 +5,7 @@
 - <b></b>
   - [Keylogger with Emailing Capabilities](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Packet Sniffer with a functioning IDS</b>
-  - [Home Lab w Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
   - [Ransomware Proof of Concept](https://github.com/joshmadakor1/Sentinel-Lab)
  
