@@ -4,10 +4,10 @@
 
 - <b></b>
   - [Keylogger with Emailing Capabilities](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Packet Sniffer with a functioning IDS]</b>
+  - [Packet Sniffer with a functioning IDS](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Ransomware Proof of Concept](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Real World Pentest]
+  - [Real World Pentest](https://github.com/joshmadakor1/Sentinel-Lab)
  
 
 
