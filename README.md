@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Jay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-</a>0xjaydm@gmail.com</a>[email]
+</b>0xjaydm@gmail.com</b>[email]
 
 
 [twitter]: https://twitter.com/0xjaydm
