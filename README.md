@@ -16,7 +16,8 @@
 
 [<img align="left" alt="Jay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<b2>>Email"</a>0xjaydm@protonmail.com</b2>
+[<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
+
 
 [twitter]: https://twitter.com/0xjaydm
 [linkedin]: https://www.linkedin.com/in/jay-mclain-8147ab281/
