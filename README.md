@@ -1,6 +1,6 @@
 <h1>I'm Jay. <br/><a href="https://github.com/jjaydm">Programming</a>, <a href="https://www.linkedin.com/in/jay-mclain-8147ab281">Cybersecurity.</a>
 
-<h2>👨‍💻 Cyber Security Projects</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b></b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -24,8 +24,9 @@
 
 [<img align="left" alt="Jay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3>><a href=https://0xjaydm@gmail.com</a> email: 0xjaydm@protonmail.com</h3>
 
 [twitter]: https://twitter.com/0xjaydm
 [linkedin]: https://www.linkedin.com/in/jay-mclain-8147ab281/
-[email]: 0xjaydm@gmail.com
+[email]: 0xjaydm@protonmail.com
 
