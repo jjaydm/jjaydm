@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b></b>
-  - [Keylogger with Emailing Capabilities](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Keylogger with Emailing Capabilities](https://github.com/jjaydm/keylogger)
   - [Packet Sniffer with a functioning IDS](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Ransomware Proof of Concept](https://github.com/joshmadakor1/Sentinel-Lab)
