@@ -1,4 +1,4 @@
-<h1>I'm Jay. <br/><a href="https://github.com/jjaydm">Programmer</a>, <a href="[https://www.linkedin.com/in/jay-mclain-8147ab281/]"</a>Cybersecurity Professional</a>, ></a></h1>
+<h1>I'm Jay. <br/><a href="https://github.com/jjaydm">Programmer</a>, <a href="[https://www.linkedin.com/in/jay-mclain-8147ab281/]">Cybersecurity Professional</a>, ></a></h1>
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
