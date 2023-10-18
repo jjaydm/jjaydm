@@ -4,7 +4,7 @@
 
 - <b></b>
   - [Keylogger with Emailing Capabilities](https://github.com/jjaydm/keylogger)
-  - [Packet Sniffer with a functioning IDS](https://github.com/jjaydm/)
+  - [Packet Sniffer with IDS functions](https://github.com/jjaydm/)
   - [Active Directory Home Lab](https://github.com/jjaydm/)
   - [Ransomware Proof of Concept](https://github.com/jjaydm/)
   - [Real World Pentest](https://github.com/jjaydm/)
