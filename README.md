@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b></b>
   - [Keylogger with Emailing Capabilities](https://github.com/jjaydm/keylogger)
   - [Packet Sniffer with IDS functions](https://github.com/jjaydm/)
   - [Active Directory Home Lab](https://github.com/jjaydm/)
