@@ -1,6 +1,6 @@
-<h1>I'm Jay.<br/><a href="https://github.com/jjaydm">Programming</a>, <a href="https://www.linkedin.com/in/jay-mclain-8147ab281">Cybersecurity</a>
+<h1>jay.<br/><a href="https://github.com/jjaydm">programming</a>, <a href="https://www.linkedin.com/in/jay-mclain-8147ab281">cybersecurity</a>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2> cybersecurity projects</h2>
 
   - [Keylogger with Emailing Capabilities](https://github.com/jjaydm/keylogger)
   - [Packet Sniffer with IDS functions](https://github.com/jjaydm/)
@@ -11,7 +11,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>connect:</h2>
 
 [<img align="left" alt="Jay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
