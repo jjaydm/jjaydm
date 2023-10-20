@@ -9,12 +9,12 @@
   - [Ransomware Proof of Concept](https://github.com/jjaydm/)
   
 
+<script src="https://tryhackme.com/badge/1472253"></script>
 
 <h2>connect:</h2>
 
 [<img align="left" alt="Jay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<script src="https://tryhackme.com/badge/1472253"></script/>
 </b>0xjaydm@protonmail.com</b> 
 
 
