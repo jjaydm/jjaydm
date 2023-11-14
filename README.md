@@ -16,5 +16,5 @@
 
 
 [twitter]: https://twitter.com/0xjaydm
-[email]: 0xjaydm@protonmail.com
+[email]: 0xjaydm@protonmail[.]com
 
